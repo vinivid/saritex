@@ -82,9 +82,9 @@ a) O que faz o programa?
 R: O número na posição de memória 830 é multiplicado por 2 se tornado 40
 e o número na posição de memória 832 é divido por 2 se tornando 400.
 
-b) PC : 308
+b) PC : 832
 
-AC : 832
+AC : 40
 
 IR : 1832
 
